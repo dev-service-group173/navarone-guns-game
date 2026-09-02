@@ -11,7 +11,7 @@ A World War II naval and coastal defense game built with **Phaser 3** and pure *
 
 ## How to Run
 1. Clone the repository:
-   git clone https://github.com/your-username/navarone-guns-game.git
+   git clone https://github.com/dev-service-group137/navarone-guns-game.git
 
 2. Open index.html using a local web server (e.g., VS Code Live Server) to allow Web Audio playback.
 
